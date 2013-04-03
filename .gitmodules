@@ -1,3 +1,6 @@
 [submodule "opscode/maven"]
 	path = opscode/maven
 	url = git://github.com/opscode-cookbooks/maven.git
+[submodule "opscode/java"]
+	path = opscode/java
+	url = git://github.com/opscode-cookbooks/java.git
