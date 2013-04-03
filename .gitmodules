@@ -6,4 +6,4 @@
 	url = git://github.com/opscode-cookbooks/java.git
 [submodule "scalarium/examples"]
 	path = scalarium/examples
-	url = git://github.com/scalarium/example-cookbooks.git
+url=git@github.com:adrian0cg/example-cookbooks.git
